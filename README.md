@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Rafid
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently working @ Cohere
-- 💞️ I’m open to collaborating on cool ML projects
-- 📫 You can reach me on LinkedIn (rafidka)
+- 🌱 Member of Technical Staff @ Cohere
+- 👀 Doing cool Machine Learning stuff
+- 💞️ Open to collaborating on cool ML projects
+- 📫 I am on LinkedIn ([rafidka](https://www.linkedin.com/in/rafidka/))
+- 🦋 and BlueSky ([rafidka](https://bsky.app/profile/rafidka.bsky.social))
 - 😄 Pronouns: he/him
 
 <!---
